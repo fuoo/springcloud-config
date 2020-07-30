@@ -1,5 +1,2 @@
-server:
-  port: 3356
-  
 config:
     test: 1
